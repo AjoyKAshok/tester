@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "896289827830",
+    "project_id": "rmschat-59d0c",
+    "storage_bucket": "rmschat-59d0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896289827830:android:c7f53e3c76db568a7735d7",
+        "android_client_info": {
+          "package_name": "rameolic.merchandising"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896289827830-jq9ibk6430ocpnel1aie671noo2veuhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMTe6k0tdTGj8PpC8np5DSlW7b7o5XNsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896289827830-jq9ibk6430ocpnel1aie671noo2veuhd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "896289827830-8vd1923a3sd0n80pl5tm0kniausmdcg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rameolic.merchandising"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
